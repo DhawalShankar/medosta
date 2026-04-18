@@ -89,4 +89,4 @@ Medosta is not a medical device. Always consult a real doctor for diagnosis and 
 
 ---
 
-*Team Antigravity — GDG Vibecode 2025*
+*Team Antigravity — GDG Vibecode 2026*
